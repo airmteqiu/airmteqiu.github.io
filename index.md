@@ -5,7 +5,7 @@
 *不过因为是第一次写，总是要写些什么的,
 例如商务合作要联系：1604310338之类的*
 
-![1](http://shengzhixing.cn/myblog/img/1.jpg)
+![1](https://forever-1258828479.cos.ap-beijing.myqcloud.com/otherblog/img/1.jpg)
 
 
 
