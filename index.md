@@ -6,9 +6,11 @@
 例如商务合作要联系：1604310338之类*
 
 *更新频率大概率是一周一次*
-<link rel="icon" href="https://github.com/airmteqiu/airmteqiu.github.io/blob/master/A.jpg?raw=true">
+
+ <link rel="icon" href="https://github.com/airmteqiu/airmteqiu.github.io/blob/master/A2.ico?raw=true">
 
 ![1](https://forever-1258828479.cos.ap-beijing.myqcloud.com/otherblog/img/1.jpg)
+
 
 
 
