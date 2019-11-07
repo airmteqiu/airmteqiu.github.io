@@ -9,10 +9,5 @@
 
  <link rel="icon" href="https://github.com/airmteqiu/airmteqiu.github.io/blob/master/A2.ico?raw=true">
 
-![1](https://forever-1258828479.cos.ap-beijing.myqcloud.com/otherblog/img/1.jpg)
-
-
-
-
-![1](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573033420&di=97823cfeec12e61dcaadb61438258e9f&imgtype=jpg&er=1&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201702%2F20%2F20170220113512_yinaE.jpeg)
+![1](https://github.com/airmteqiu/airmteqiu.github.io/blob/master/%E7%AC%AC%E4%B8%89%E5%BC%A0%E8%BD%AE%E6%92%AD%E5%9B%BE%E7%89%87.jpg?raw=true)
 
