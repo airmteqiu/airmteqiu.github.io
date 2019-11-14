@@ -8,7 +8,7 @@
 *更新频率大概率是一周一次*
 
  <link rel="icon" href="https://github.com/airmteqiu/airmteqiu.github.io/blob/master/A2.ico?raw=true">
-
+<link href="https://github.com/airmteqiu/airmteqiu.github.io/blob/master/styles.css" rel="https://github.com/airmteqiu/airmteqiu.github.io/blob/master/styles.css">
 <meta name="viewport" content="width=device-width">
 
 ![1](http://r.photo.store.qq.com/psb?/V10FTeKj4BGmer/lpP8926ENp4BFo7Rr9W7Gp9jxrNsXiZtRn8U4C.USrE!/r/dDcBAAAAAAAA)
@@ -18,8 +18,10 @@
 <html>
 
 <head>
-
+<meta name="viewport" content="width=device-width">
+<link href="https://github.com/airmteqiu/airmteqiu.github.io/blob/master/styles.css" rel="https://github.com/airmteqiu/airmteqiu.github.io/blob/master/styles.css">
 <meta charset="utf-8">
+
 
 <title>刘涛的个人博客 | airmteqiu.github.io</title>
 
@@ -2250,8 +2252,7 @@ window.addEventListener('load', function(e) {
 })(window, 'equestAnimationFrame');
 
 </script>
-
-
+</html>
 
 
 
