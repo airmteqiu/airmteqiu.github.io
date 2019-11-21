@@ -1,3 +1,4 @@
+
 ## 刘涛的个人博客
 
 **第一次写博客 ， 有点小激动**
@@ -6,13 +7,14 @@
 例如商务合作要联系：1604310338之类*
 
 *更新频率大概率是一周一次*
-
- <link rel="icon" href="https://github.com/airmteqiu/airmteqiu.github.io/blob/master/A2.ico?raw=true">
-<link rel="stylesheet" href="css/styles.css">
-<meta name="viewport" content="width=device-width">
-
 ![1](http://r.photo.store.qq.com/psb?/V10FTeKj4BGmer/lpP8926ENp4BFo7Rr9W7Gp9jxrNsXiZtRn8U4C.USrE!/r/dDcBAAAAAAAA)
 
+
+<link rel="style sheet" type="text/css" media="screen" href="screenstyles.css">
+ <link rel="icon" href="https://github.com/airmteqiu/airmteqiu.github.io/blob/master/A2.ico?raw=true">
+<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" media="screen and (orientation: portrait)"href="portrait-screen.css" />
+<meta name="viewport" content="width=device-width">
 
 
 <html>
@@ -21,8 +23,8 @@
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="css/styles.css">
 <meta charset="utf-8">
-
-
+<link rel="style sheet" type="text/css" media="screen" href="screenstyles.css">
+<link rel="stylesheet" media="screen and (orientation: portrait)"href="portrait-screen.css" />
 <title>刘涛的个人博客 | airmteqiu.github.io</title>
 
 </head>
@@ -2253,6 +2255,5 @@ window.addEventListener('load', function(e) {
 
 </script>
 </html>
-
 
 
