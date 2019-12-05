@@ -14,13 +14,14 @@
  <link rel="icon" href="https://github.com/airmteqiu/airmteqiu.github.io/blob/master/A2.ico?raw=true">
 <link rel="stylesheet" href="css/styles.css">
 <link rel="stylesheet" href="main2.css">
+
 <link rel="stylesheet" href="main.css">
-     <a href="#" class="CardLink CardLink_Hearts">Hearts</a>
+     <a href="#" class="CardLink                CardLink_Hearts">Hearts</a>
 		<a href="#" class="CardLink CardLink_Clubs">Clubs</a>
 		<a href="#" class="CardLink CardLink_Spades">Spades</a>
 		<a href="#" class="CardLink CardLink_Diamonds">Diamonds</a>
 <meta name="viewport" content="width=device-width">
-
+<meta name="viewport" contet="width=device-width,initial-scale=1.0"/>
 
 <html>
 
@@ -2260,5 +2261,4 @@ window.addEventListener('load', function(e) {
 
 </script>
 </html>
-
 
