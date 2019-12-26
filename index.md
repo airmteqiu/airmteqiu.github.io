@@ -16,13 +16,13 @@
 <link rel="stylesheet" href="main2.css">
 <link rel="stylesheet" href="main.css">
 <link rel="stylesheet" href="main3.css">
-     <a href="#" class="CardLink                CardLink_Hearts">Hearts</a>
+     
+<meta name="viewport" content="width=device-width">
+<meta name="viewport" contet="width=device-width,initial-scale=1.0"/>
+ <a href="#" class="CardLink                CardLink_Hearts">Hearts</a>
 		<a href="#" class="CardLink CardLink_Clubs">Clubs</a>
 		<a href="#" class="CardLink CardLink_Spades">Spades</a>
 		<a href="#" class="CardLink CardLink_Diamonds">Diamonds</a>
-<meta name="viewport" content="width=device-width">
-<meta name="viewport" contet="width=device-width,initial-scale=1.0"/>
-
 <div class="Wrap">
 		<div class="Header"></div>
 		<div class="WrapMiddle">
@@ -31,6 +31,9 @@
 			<div class="Right"></div>
 		</div>
         <div class="Footer"></div>
+	</div>
+     <div class="CenterMe">
+		Hello, I'm centered with Flexbox!
 	</div>
 <html>
 
@@ -2269,4 +2272,3 @@ window.addEventListener('load', function(e) {
 })(window, 'equestAnimationFrame');
 
 </script>
-</html>
