@@ -14,7 +14,7 @@
  <link rel="icon" href="https://github.com/airmteqiu/airmteqiu.github.io/blob/master/A2.ico?raw=true">
 <link rel="stylesheet" href="css/styles.css">
 <link rel="stylesheet" href="main2.css">
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="css/CenterMe.css">
 <link rel="stylesheet" href="main3.css">
      
 <meta name="viewport" content="width=device-width">
@@ -2270,5 +2270,3 @@ window.addEventListener('load', function(e) {
     w['r'+r] = w['r'+r] || w['webkitR'+r] || w['mozR'+r] || w['msR'+r] || w['oR'+r] || function(c){ w.setTimeout(c, 1000 / 60); };
 
 })(window, 'equestAnimationFrame');
-
-</script>
