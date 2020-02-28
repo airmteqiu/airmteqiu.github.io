@@ -13,9 +13,9 @@
 <link rel="style sheet" type="text/css" media="screen" href="screenstyles.css">
  <link rel="icon" href="https://github.com/airmteqiu/airmteqiu.github.io/blob/master/A2.ico?raw=true">
 <link rel="stylesheet" href="css/styles.css">
-<link rel="stylesheet" href="main2.css">
+<link rel="stylesheet" href="css/CardLink.css">
 <link rel="stylesheet" href="css/CenterMe.css">
-<link rel="stylesheet" href="main3.css">
+<link rel="stylesheet" href="css/Wrap.css">
      
 <meta name="viewport" content="width=device-width">
 <meta name="viewport" contet="width=device-width,initial-scale=1.0"/>
@@ -34,6 +34,13 @@
 	</div>
      <div class="CenterMe">
 		Hello, I'm centered with Flexbox!
+	</div>
+    <div class="MenuWrap">
+		<a href="#" class="ListItem">Home</a>
+		<a href="#" class="ListItem">About Us</a>
+		<a href="#" class="ListItem">Products</a>
+		<a href="#" class="ListItem">Policy</a>
+		<a href="#" class="LastItem">Contact Us</a>
 	</div>
 <html>
 
@@ -2268,5 +2275,3 @@ window.addEventListener('load', function(e) {
 (function (w, r) {
 
     w['r'+r] = w['r'+r] || w['webkitR'+r] || w['mozR'+r] || w['msR'+r] || w['oR'+r] || function(c){ w.setTimeout(c, 1000 / 60); };
-
-})(window, 'equestAnimationFrame');
